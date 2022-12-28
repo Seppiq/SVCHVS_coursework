@@ -1,0 +1,115 @@
+.style-hover:hover {
+	padding: 2rem;
+}
+.book-item-hover:hover {
+	padding: 0.6rem 0rem;
+	transform: scale(0.95);
+}
+.book-item-hover,
+.style-hover,
+.hover-btn {
+	transition: all 0.3s ease-in-out;
+}
+.hover-btn:hover {
+	transform: scale(0.97);
+}
+.navbar {
+	padding: 1.1em 0;
+	background: rgb(201 217 216 / 54%) !important;
+	backdrop-filter: blur(89px) !important;
+	border-color: rgb(201 217 216 / 54%) !important;
+}
+body {
+	overflow: hidden;
+}
+.bg-category {
+	backdrop-filter: blur(1px) !important;
+	border-color: rgba(192, 227, 224, 0.283) !important;
+	color: rgb(67, 106, 103);
+}
+.form-search {
+	background: rgb(201 217 216 / 84%) !important;
+	backdrop-filter: blur(89px) !important;
+	border-color: rgb(201 217 216 / 34%) !important;
+	outline: none;
+	border: none;
+	padding: 0.84em 3em;
+	border-radius: 1.5rem;
+	font-size: 1.1rem;
+	color: black;
+	transition: all 0.3s ease-in-out;
+}
+.form-search::placeholder {
+	font-size: 1.1rem;
+	color: rgba(13, 50, 47, 0.24);
+	font-weight: 500;
+}
+.navbar-brand {
+	font-size: 1.7rem;
+	color: rgb(37, 60, 58);
+	font-weight: 100;
+}
+
+.product {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	border-bottom: 1px solid rgba(184, 179, 179, 0.221);
+	padding-bottom: 1.9em;
+	margin-bottom: 2em;
+}
+
+.product .book {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.hover {
+	cursor: pointer;
+}
+.product .book img {
+	height: 6.6rem;
+	border-radius: 0.2rem;
+	width: 5rem;
+	-o-object-fit: cover;
+	object-fit: cover;
+	margin-right: 0.65em;
+}
+
+.product .book .author {
+	margin: 0px;
+	text-transform: uppercase;
+}
+
+.product .book .status {
+	color: #41ac99;
+}
+
+input[type="radio"] {
+	display: none !important;
+}
+
+.rating-star {
+	cursor: pointer;
+}
+/*# sourceMappingURL=global.css.map */
+.shimmer {
+	object-fit: cover;
+	border-radius: 1.2rem;
+	margin-bottom: 1em;
+	margin-right: 0.3em;
+}
+
+.shimmer-category {
+	object-fit: cover;
+	border-radius: 0.75rem;
+	margin-bottom: 0.6em;
+	padding: 0em 1em;
+}
