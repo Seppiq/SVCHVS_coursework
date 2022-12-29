@@ -1,6 +1,11 @@
 # SVCHVS_coursework
 react js + spring
 
+## Для запуска приложения
+- установить postgres и создать БД с названием postgres
+- node js 16.14.0
+- в react: 1. npm install 2. npm start
+
 Страница со стороны клиента
 ![image](https://user-images.githubusercontent.com/53149697/209944032-8ca00f17-3e29-48ce-be29-ab862bc1ef5b.png)
 
