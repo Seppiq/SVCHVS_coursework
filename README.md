@@ -2,7 +2,7 @@
 react js + spring
 
 ## Для запуска приложения
-- установить postgres и создать БД с названием postgres
+- установить postgres и создать БД с названием postgres(пароль в application.properties)
 - node js 16.14.0
 - в react: 1. npm install 2. npm start
 
