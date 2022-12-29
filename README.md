@@ -18,3 +18,9 @@ react js + spring
 Покупка из корзины 
 ![image](https://user-images.githubusercontent.com/53149697/209944861-fbd7aa07-f19f-43aa-93c4-77b1c5745c85.png)
 
+Адаптив 768px
+![image](https://user-images.githubusercontent.com/53149697/209946530-38f5d761-ceb1-40e1-bb22-f37ee63f2cc3.png)
+
+Адаптив 320px
+![image](https://user-images.githubusercontent.com/53149697/209946562-1addaa55-7559-4cc7-8cac-b765bd2b78c4.png)
+
