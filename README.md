@@ -9,9 +9,8 @@ react js + spring
 ## Figma 
 https://www.figma.com/file/GoaSldy5Jl6x4vKMmxslRp/Untitled?node-id=0%3A1&t=ruiRBdlSdhAQZLUY-0
 
-## Figma 
+## Пояснительная записка
 [PZ_svchvs.docx](https://github.com/Seppiq/SVCHVS_coursework/files/10322914/_.docx)
-
 
 Страница со стороны клиента
 ![image](https://user-images.githubusercontent.com/53149697/209944032-8ca00f17-3e29-48ce-be29-ab862bc1ef5b.png)
